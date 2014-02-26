@@ -1,1 +1,3 @@
-markdown: kramdown
+name: Just a programmer!
+markdown: redcarpet
+pygments: true
